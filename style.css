@@ -6,7 +6,7 @@
 .header{
 	min-height: 100vh;
 	width: 100%;
-	background-image: linear-gradient(rgba(104, 107, 117, 0.7),rgba(4,9,30,0.7)),url(photos/cover.jpg);
+	background-image: linear-gradient(rgba(101, 103, 110, 0.7),rgba(84, 0, 133, 0.486)),url(Photos/cover2.jpg);
 	background-position: center;
 	background-size: cover;
 	position: relative;
@@ -43,7 +43,7 @@ font-size: 20px;
 	content: '';
 	width: 0%;
 	height: 2px;
-	background: #f44336;
+	background: rgb(216, 31, 216);
 	display: block;
 	margin: auto;
 	transition: 0.3s;
@@ -63,6 +63,8 @@ font-size: 20px;
 }
 .text-box h1 {
 	font-size: 75px;
+	font-family: 'Poppins';
+	
 
 }
 .text-box p{
@@ -84,7 +86,7 @@ font-size: 20px;
 }
 .hero-btn:hover{
 	border: 1px solid black;
-	background: gray;
+	background: rgb(191, 6, 197);
 	transition: 1s;
 
 }
@@ -100,7 +102,7 @@ nav .fa{
 	}
 	.nav-links{
 		position: absolute;
-		background: #f44336;
+		background: #d400ff;
 		height: 100vh;
 		width: 200px;
 		top: 0;
