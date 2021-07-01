@@ -6,7 +6,7 @@
 .header{
 	min-height: 100vh;
 	width: 100%;
-	background-image: linear-gradient(rgba(91, 24, 119, 0.205),rgba(56, 0, 88, 0.658)),url(Photos/cover2.jpg);
+	background-image: linear-gradient(rgba(3, 3, 3, 0.205),rgba(5, 4, 5, 0.658)),url(Photos/cover2.jpg);
 	background-position: center;
 	background-size: cover;
 	position: relative;
@@ -43,7 +43,7 @@ font-size: 20px;
 	content: '';
 	width: 0%;
 	height: 2px;
-	background: rgb(216, 31, 216);
+	background: rgb(167, 147, 167);
 	display: block;
 	margin: auto;
 	transition: 0.3s;
@@ -86,7 +86,7 @@ font-size: 20px;
 }
 .hero-btn:hover{
 	border: 1px solid black;
-	background: rgb(191, 6, 197);
+	background: rgb(125, 119, 126);
 	transition: 1s;
 
 }
@@ -102,7 +102,7 @@ nav .fa{
 	}
 	.nav-links{
 		position: absolute;
-		background: #d400ff;
+		background: #9f94a1;
 		height: 100vh;
 		width: 200px;
 		top: 0;
