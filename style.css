@@ -6,7 +6,7 @@
 .header{
 	min-height: 100vh;
 	width: 100%;
-	background-image: linear-gradient(rgba(3, 3, 3, 0.205),rgba(5, 4, 5, 0.658)),url(Photos/cover2.jpg);
+	background-image: linear-gradient(rgba(3, 3, 3, 0.644),rgba(51, 50, 50, 0.466)),url(Photos/cover2.jpg);
 	background-position: center;
 	background-size: cover;
 	position: relative;
@@ -19,7 +19,7 @@ nav {
 	align-items: center;
 }
 nav img{
-	width: 200px;
+	width: 150px;
 }
 
 
@@ -43,7 +43,7 @@ font-size: 20px;
 	content: '';
 	width: 0%;
 	height: 2px;
-	background: rgb(167, 147, 167);
+	background: rgb(238, 216, 238);
 	display: block;
 	margin: auto;
 	transition: 0.3s;
@@ -102,7 +102,7 @@ nav .fa{
 	}
 	.nav-links{
 		position: absolute;
-		background: #9f94a1;
+		background: #f0dff3;
 		height: 100vh;
 		width: 200px;
 		top: 0;
