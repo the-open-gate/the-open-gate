@@ -26,7 +26,7 @@ nav img{
 
 .nav-links{
 	flex: 1;
-	text-align: right;
+	text-align: center;
 
 }
 .nav-links ul li {
@@ -86,8 +86,8 @@ font-size: 20px;
 
 }
 .hero-btn:hover{
-	border: 1px solid black;
-	background: rgb(125, 119, 126);
+	border: 1px solid rgb(0, 0, 0);
+	background: rgb(213, 201, 214);
 	transition: 1s;
 
 }
@@ -103,7 +103,7 @@ nav .fa{
 	}
 	.nav-links{
 		position: absolute;
-		background: #8c848d;
+		background: #8c848d86;
 		height: 100vh;
 		width: 200px;
 		top: 0;
@@ -220,3 +220,15 @@ h5{
 	padding: 10px;
 }
 
+/*slideshow */
+
+.container{
+	position: absolute;
+	bottom: 0;
+	left:0;
+	right:0;
+	padding-bottom: 50px;
+
+}
+
+}
