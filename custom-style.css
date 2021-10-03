@@ -1,0 +1,10 @@
+.bg-custom-dark {
+    background: #1E1E1E;
+}
+.slider-frames{
+    overflow: hidden;
+    height: 800px;
+    width: 1200px;
+    margin-left: 360px;
+    margin-top: 20px;
+}
